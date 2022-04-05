@@ -1,24 +1,18 @@
-# imc-app
+# Cálculo do IMC
 
-## Project setup
+Desafio proposto no Bootcamp de Front-End do IGTI para cria um jogo da velha utilizando Vue.js como framework.
+
+Tecnologias utilizadas
+Vue.js - Versão 3.0
+
+## Como Instalar
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para Compilar e Inicializar
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
