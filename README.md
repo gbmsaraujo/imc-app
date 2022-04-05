@@ -15,4 +15,4 @@ npm install
 npm run serve
 ```
 
-
+Importante ter o Node.js instalado para rodar o projeto.
